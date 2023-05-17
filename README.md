@@ -41,8 +41,9 @@ pip install numpy pandas sklearn matplotlib seaborn
 To use this project, follow these steps:
 
 1. Clone this repository to your local environment.
-2. Install the required libraries using the command mentioned in the installation section.
-3. Run the `credit_card_fraud_detection.ipynb` script to preprocess the data, train the Random Forest classifier model, and evaluate its performance by calculating accuracy and AUC score.
+2. Download the dataset from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud, and save the csv file into the repository.
+3. Install the required libraries using the command mentioned in the installation section.
+4. Run the `credit_card_fraud_detection.ipynb` script to preprocess the data, train the Random Forest classifier model, and evaluate its performance by calculating accuracy and AUC score.
 
 ## Evaluation
 
